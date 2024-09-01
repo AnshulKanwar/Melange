@@ -1,0 +1,17 @@
+<idea-plugin>
+    <id>com.anshulkanwar.melange</id>
+    <version>1.0.0</version>
+    <name>Melange</name>
+    <category>UI</category>
+    <vendor email="me@anshulkanwar.com" url="https://anshulkanwar.com">Anshul Kanwar</vendor>
+
+    <idea-version since-build="232" until-build="242.*"/>
+
+    <description>Port of savq/melange-nvim for JetBrains IDEs</description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="melange" path="/theme/melange.theme.json"/>
+    </extensions>
+</idea-plugin>
