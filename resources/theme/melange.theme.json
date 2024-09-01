@@ -30,7 +30,7 @@
     "text": "#ECE1D7",
     "subtext0": "#D1B69F",
     "subtext1": "#DECBBA",
-    "accentColor": "#C6A0F6",
+    "accentColor": "#EBC06D",
     "secondaryAccentColor": "#EBC06D",
     "primaryForeground": "#ECE1D7",
     "primaryBackground": "#292522",
@@ -508,8 +508,8 @@
       "Checkbox.Border.Selected": "#34302C",
       "Checkbox.Foreground.Disabled": "#867462",
       "Checkbox.Foreground.Disabled.Dark": "#867462",
-      "Checkbox.Foreground.Selected": "#C6A0F6",
-      "Checkbox.Foreground.Selected.Dark": "#C6A0F6",
+      "Checkbox.Foreground.Selected": "#EBC06D",
+      "Checkbox.Foreground.Selected.Dark": "#EBC06D",
       "Tree.iconColor": "#ECE1D7"
     }
   }
